@@ -1,3 +1,6 @@
+# to create a moving grating square or sinusoidal with variable parameters masked in a circular field
+# the default unit is in pixel and has to adjusted to suit the experimental requirements
+
 from psychopy import visual, event
 
 win0=visual.Window(
